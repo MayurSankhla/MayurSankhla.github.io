@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "cosmos.granite.marble",
-      "sha256_cert_fingerprints":
-      ["0B:07:A4:94:E5:18:F0:38:4B:3F:FD:04:4D:1B:68:C2:47:95:66:23:1E:CC:42:BB:31:30:CF:68:3F:65:8B:87"]
-    }
-  }]
